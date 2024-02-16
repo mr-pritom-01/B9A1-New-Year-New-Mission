@@ -27,7 +27,7 @@ button:hover {
 
 .banner {
   background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url("/images/Banner.png");
+    url("../images/Banner.png");
   margin: 50px 140px;
   border-radius: 16px;
   height: 700px;

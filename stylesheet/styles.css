@@ -151,10 +151,10 @@ body {
 /* new best offer section starts here */
 
 .new-best-offer {
-    display: flex;
-    justify-content: space-around;
-    padding: 20px;
-    margin-top: 140px;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin-top: 140px;
 }
 .coming-soon {
   width: 393px;
@@ -185,6 +185,7 @@ body {
   width: 365px;
   height: 365px;
   padding: 30px;
+  margin-right: 125px;
 }
 /* 2024 part  */
 
@@ -206,4 +207,32 @@ body {
   font-weight: 400;
   line-height: 32px;
   padding: 35px 0px;
+}
+
+/* holiday sale 50% parts starts here  */
+
+.holiday-sale {
+  width: 1060px;
+  text-align: center;
+  margin: 100px auto;
+  padding: 120px;
+}
+.holiday-text {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.holiday-header {
+  color: #070211;
+  font-size: 72px;
+  font-weight: 900;
+  padding: 30px 0px;
+}
+.holiday-description {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
 }

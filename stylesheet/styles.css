@@ -18,6 +18,11 @@
   border: none;
 }
 
+button:hover {
+  box-shadow: 2px 2px 5px black;
+  cursor: pointer;
+}
+
 /* banner section  */
 
 .banner {
@@ -372,8 +377,4 @@ footer {
   border-top: 4px solid rgba(255, 255, 255, 0.15);
   width: 1300px;
   margin: auto;
-}
-button:hover {
-  box-shadow: 2px 2px 5px black;
-  cursor: pointer;
 }

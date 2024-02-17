@@ -246,6 +246,36 @@ button:hover {
   line-height: 32px;
 }
 
+/* holiday image section  */
+.discount-box-lady {
+  display: flex;
+  justify-content: space-between;
+  background-image: url('images/Rectangle 2.png');
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size:contain;
+  height: 736px;
+  margin-bottom: 200px;
+  margin-top: -100px;
+}
+
+.gift-box {
+  width: 429px;
+height: 400px;
+padding-top: 250px;
+}
+
+.discount-50 {
+position:absolute;
+padding-left: 1190px;
+padding-top: 50px;
+}
+
+.the-lady {
+  width: 429px;
+height: 433px;
+position: static;
+}
 /* our awesome portfolio section starts here  */
 
 .portfolio-container {

@@ -3,7 +3,8 @@
   margin: 0;
   padding: 0;
 }
-.main-section, .banner {
+.main-section,
+.banner {
   margin: 0px 140px;
 }
 .btn-primary {
@@ -338,7 +339,6 @@ button:hover {
   font-size: 25px;
 }
 
-
 /* fotter section  */
 footer {
   background: #070211;
@@ -356,7 +356,8 @@ footer {
   margin: auto;
 }
 
-.address, .contact {
+.address,
+.contact {
   font-family: Inter;
   font-size: 24px;
   font-weight: 500;
